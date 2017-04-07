@@ -1,11 +1,14 @@
 // ==UserScript==
-// @name         Jira Links
-// @namespace    http://tampermonkey.net/
-// @version      0.3
-// @description  try to take over the world!
-// @author       seliver
-// @match        https://*.atlassian.net/secure/RapidBoard.jspa*
-// @grant        none
+// @name          Jira Links
+// @version       0.3
+// @description   Jira links in a new tab
+// @namespace     https://github.com/seliver/
+// @grant         GM_addStyle
+// @run-at        document-idle
+// @match         https://*.atlassian.net/secure/RapidBoard.jspa*
+// @author        Alexey Seliverstov
+// @updateURL     https://raw.githubusercontent.com/seliver/jira-links-newtab/master/index.js
+// @downloadURL   https://raw.githubusercontent.com/seliver/jira-links-newtab/master/index.js
 // ==/UserScript==
 
 var a = function(){
