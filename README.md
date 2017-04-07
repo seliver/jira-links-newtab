@@ -12,6 +12,6 @@ This simple js allows you to open links directly from Jira, and be opened on a n
 	* Dolphin - install [Tampermonkey](https://tampermonkey.net/?ext=dhdg&browser=dolphin).
 	* UC Browser - install [Tampermonkey](https://tampermonkey.net/?ext=dhdg&browser=ucweb).
   
-2. After installing the extension on your browser, click [install](https://raw.githubusercontent.com/seliver/jira-links-newtab/master/index.js) to install the script.
+2. After installing the extension on your browser, click [install](https://raw.githubusercontent.com/seliver/jira-links-newtab/master/index.user.js) to install the script.
 
 3. Done! The script will update itself to the latest version when new updates arrive!
