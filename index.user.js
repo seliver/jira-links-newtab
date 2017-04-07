@@ -5,8 +5,8 @@
 // @namespace     https://github.com/seliver/
 // @match         https://*.atlassian.net/secure/RapidBoard.jspa*
 // @author        Alexey Seliverstov
-// @updateURL     https://raw.githubusercontent.com/seliver/jira-links-newtab/master/index.js
-// @downloadURL   https://raw.githubusercontent.com/seliver/jira-links-newtab/master/index.js
+// @updateURL     https://raw.githubusercontent.com/seliver/jira-links-newtab/master/index.user.js
+// @downloadURL   https://raw.githubusercontent.com/seliver/jira-links-newtab/master/index.user.js
 // ==/UserScript==
 
 var a = function(){
