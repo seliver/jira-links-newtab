@@ -3,7 +3,7 @@
 // @version       0.3
 // @description   Jira links in a new tab
 // @namespace     https://github.com/seliver/
-// @match         https://*.atlassian.net/secure/RapidBoard.jspa*
+// @match         https://*.atlassian.(net|com)/(secure/RapidBoard.jspa*|browse/*)
 // @author        Alexey Seliverstov
 // @updateURL     https://raw.githubusercontent.com/seliver/jira-links-newtab/master/index.user.js
 // @downloadURL   https://raw.githubusercontent.com/seliver/jira-links-newtab/master/index.user.js
