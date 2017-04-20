@@ -1,9 +1,10 @@
 // ==UserScript==
 // @name          Jira Links
-// @version       0.4
+// @version       0.5
 // @description   Jira links in a new tab
 // @namespace     https://github.com/seliver/
-// @match         https://*.atlassian.(net|com)/(secure/RapidBoard.jspa*|browse/*)
+// @match         https://*.atlassian.net/secure/RapidBoard.jspa*
+// @match         https://*.atlassian.com/browse/*
 // @author        Alexey Seliverstov
 // @updateURL     https://raw.githubusercontent.com/seliver/jira-links-newtab/master/index.user.js
 // @downloadURL   https://raw.githubusercontent.com/seliver/jira-links-newtab/master/index.user.js
