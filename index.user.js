@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name          Jira Links
-// @version       0.3
+// @version       0.4
 // @description   Jira links in a new tab
 // @namespace     https://github.com/seliver/
 // @match         https://*.atlassian.(net|com)/(secure/RapidBoard.jspa*|browse/*)
