@@ -7,6 +7,8 @@
 // @match         https://*.atlassian.com/secure/RapidBoard.jspa*
 // @match         https://*.atlassian.com/browse/*
 // @match         https://*.atlassian.net/browse/*
+// @match         https://*.atlassian.com/browse/*?*
+// @match         https://*.atlassian.net/browse/*?*
 // @author        Alexey Seliverstov
 // @updateURL     https://raw.githubusercontent.com/seliver/jira-links-newtab/master/index.user.js
 // @downloadURL   https://raw.githubusercontent.com/seliver/jira-links-newtab/master/index.user.js
